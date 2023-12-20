@@ -1,0 +1,17 @@
+C:\Users\Heaven\Projects\IvanMPI\bin\Debug\net6.0\IvanMPI.exe
+C:\Users\Heaven\Projects\IvanMPI\bin\Debug\net6.0\IvanMPI.deps.json
+C:\Users\Heaven\Projects\IvanMPI\bin\Debug\net6.0\IvanMPI.runtimeconfig.json
+C:\Users\Heaven\Projects\IvanMPI\bin\Debug\net6.0\IvanMPI.dll
+C:\Users\Heaven\Projects\IvanMPI\bin\Debug\net6.0\IvanMPI.pdb
+C:\Users\Heaven\Projects\IvanMPI\bin\Debug\net6.0\MPI.dll
+C:\Users\Heaven\Projects\IvanMPI\obj\Debug\net6.0\IvanMPI.csproj.AssemblyReference.cache
+C:\Users\Heaven\Projects\IvanMPI\obj\Debug\net6.0\IvanMPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heaven\Projects\IvanMPI\obj\Debug\net6.0\IvanMPI.AssemblyInfoInputs.cache
+C:\Users\Heaven\Projects\IvanMPI\obj\Debug\net6.0\IvanMPI.AssemblyInfo.cs
+C:\Users\Heaven\Projects\IvanMPI\obj\Debug\net6.0\IvanMPI.csproj.CoreCompileInputs.cache
+C:\Users\Heaven\Projects\IvanMPI\obj\Debug\net6.0\IvanMPI.csproj.CopyComplete
+C:\Users\Heaven\Projects\IvanMPI\obj\Debug\net6.0\IvanMPI.dll
+C:\Users\Heaven\Projects\IvanMPI\obj\Debug\net6.0\refint\IvanMPI.dll
+C:\Users\Heaven\Projects\IvanMPI\obj\Debug\net6.0\IvanMPI.pdb
+C:\Users\Heaven\Projects\IvanMPI\obj\Debug\net6.0\IvanMPI.genruntimeconfig.cache
+C:\Users\Heaven\Projects\IvanMPI\obj\Debug\net6.0\ref\IvanMPI.dll
